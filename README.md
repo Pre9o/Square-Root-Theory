@@ -7,11 +7,16 @@ $$ f(x) = 2 a + b-1 $$
 $$ a \in A $$
 $$ b \in B $$
 
-Where:
-$$ A = \{a \in \mathbb{N}\} $$
-$$ B = \{b \in \mathbb{N}\} $$
-$$ \mathbb{N} = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, ...\} $$
+Where: 
+
+$$ A = {a \in \mathbb{N}} $$
+
+$$ B = {b \in \mathbb{N}} $$
+
+$$ \mathbb{N} = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, ...\} $$
+
 $$ a_0 = 1 $$
+
 $$ b_0 = 0 $$
 
 Summary: Vector-Based Square Root Approach
